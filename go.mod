@@ -1,4 +1,4 @@
-module github.com/VINDA-98/train
+module github.com/VINDA-98/go-concurrency-exercises
 
 go 1.18
 
