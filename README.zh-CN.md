@@ -1,8 +1,8 @@
-# Go 练习题
+# Go 并发练习
 
 [English](README.md)
 
-一些独立的 Go 练习，涉及 context、goroutine、channel 和 Redis 加锁。每个示例围绕一个具体行为展开，可以单独阅读。
+可以单独阅读的 Go 练习，涵盖 context 取消与超时、goroutine、有缓冲的 channel 和 Redis 加锁。
 
 | 目录 | 示例 |
 | --- | --- |

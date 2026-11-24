@@ -1,8 +1,8 @@
-# Go Practice Exercises
+# Go Concurrency Exercises
 
 [简体中文](README.zh-CN.md)
 
-Small Go exercises for experimenting with contexts, goroutines, channels and Redis locking. Each example focuses on one behavior that can be read in isolation.
+Standalone Go examples for context cancellation, goroutines, buffered channels and Redis locks. Each directory isolates a specific behavior for inspection.
 
 | Directory | Examples |
 | --- | --- |
